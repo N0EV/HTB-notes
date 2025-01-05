@@ -7,6 +7,7 @@ Comandos basicos para empezar el reconocimiento de una maquina en HTB[^1].
 Este comando nos sirve para ver si la maquina esta activa (es decir, conectada a la misma red y encendida)
 ### Opciones
 * -c
+
 Esta opcion nos sirve para indicar cuanta cantidad de "pings" queremos que haga.
 
 ## Nmap
